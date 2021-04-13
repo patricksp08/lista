@@ -4,9 +4,14 @@
 
 Site hospedado: [Netlify](https://listadecomprasreact.netlify.app/)
 
+## **Ambientes de Desenvolvimento e Referências**
+
+* IDE:    **VSCODE 1.55.1**
+* [Node.js](https://nodejs.org/en/):    **version 14.16.0 (x64) and NPM**
 
 
-# Criando o projeto
+
+## Criando o projeto
 
 ### Para criarmos todos arquivos necessários, abra o prompt de comando e insira o seguinte comando:
 ```
