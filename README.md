@@ -17,7 +17,7 @@ npx create-react-app list
 
 ![image](https://user-images.githubusercontent.com/71887999/114571277-eba77580-9c4c-11eb-89e4-d6e4eb751307.png)
 
-Para abrirmos a pasta no visual studio code, utilize os seguintes comandos:
+* Para abrirmos a pasta no visual studio code, utilize os seguintes comandos: *
 
 #### Entrar na pasta (no caminho em que você criou a pasta anteriormente):
 ```
