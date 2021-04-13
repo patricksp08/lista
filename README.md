@@ -8,7 +8,7 @@ Site hospedado: [Netlify](https://listadecomprasreact.netlify.app/)
 
 # Criando o projeto
 
-&& Para criarmos todos arquivos necessários, abra o prompt de comando e insira o seguinte comando:
+Para criarmos todos arquivos necessários, abra o prompt de comando e insira o seguinte comando:
 ```
 npx create-react-app list
 ```
@@ -16,3 +16,16 @@ npx create-react-app list
 #### Assim criaremos uma pasta chamada "list" no caminho selecionado.
 
 ![image](https://user-images.githubusercontent.com/71887999/114571277-eba77580-9c4c-11eb-89e4-d6e4eb751307.png)
+
+Para abrirmos a pasta no visual studio code, utilize os seguintes comandos:
+
+#### Entrar na pasta (no caminho em que você criou a pasta anteriormente):
+```
+cd list
+```
+
+#### Abrir no VS Code:
+```
+code .
+```
+
