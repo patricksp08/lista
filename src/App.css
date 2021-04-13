@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+
+html {
+  color: #fff;
+  background-color: #282c34;
+}
+
+ul {
+  list-style-type: none;
+}
+
+li {
+  font: 200 20px/1.5 Helvetica, Verdana, sans-serif;
+  border-bottom: 1px solid #ccc;
+}
