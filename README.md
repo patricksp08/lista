@@ -8,7 +8,7 @@ Site hospedado: [Netlify](https://listadecomprasreact.netlify.app/)
 
 # Criando o projeto
 
-Para criarmos todos arquivos necessários, abra o prompt de comando e insira o seguinte comando:
+&& Para criarmos todos arquivos necessários, abra o prompt de comando e insira o seguinte comando:
 ```
 npx create-react-app list
 ```
